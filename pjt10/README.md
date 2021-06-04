@@ -1,9 +1,5 @@
 # PJT10_Vue를 활용한 SPA 구성
 
-서울 1반 전선규
-
-
-
 <small>vue의 기본이 되는 기본 구조는 vue_workshop03에서 자세하게 다루고 있으니 참고</small>
 
 >목표
